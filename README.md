@@ -35,10 +35,10 @@ These icons are for specific third party apps or services.
 | Yahoo Mail | ![](./pebbleos/Pebble_80x80_Yahoo_mail.svg)| ![](./pebbleos/Pebble_50x50_Yahoo_mail.svg)| ![](./pebbleos/Pebble_25x25_Yahoo_mail.svg) | PebbleOS
 
 # Other Rebble Icons
-See [./rebble]
+See [here](./rebble)
 
 # Other Firmware Icons
-see [./pebbleos] or, for the source, [the firmware repo](https://github.com/pebble-dev/pebble-firmware/tree/main/resources/normal/base/images).
+see [here](./pebbleos) or, for the source, [the firmware repo](https://github.com/pebble-dev/pebble-firmware/tree/main/resources/normal/base/images).
 
 # Issue viewing icons?
 If you're using Firefox you might find you can't see some icons.
