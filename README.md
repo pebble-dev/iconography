@@ -48,3 +48,6 @@ Open an issue here or join #art-design on [the Discord server.](https://rebble.i
 
 # Have a design?
 Open a PR! Or drop by [the Discord server.](https://rebble.io/discord)
+
+# Looking for Emojis?
+We also have an emoji replacement project! [Check that out here](https://github.com/pebble-dev/rebble-emojis/)
