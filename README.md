@@ -5,5 +5,5 @@ Pebble-Style icons from the Rebble community
 
 | App / Service  | Icon | Source |
 | ------------- | ------------- | ------------- |
-| Blackberry Messenger  | ![](./pebbleos/Pebble_80x80_Blackberry_messenger.svg)  |    PebbleOS
+| Blackberry Messenger  | ![](pebbleos/Pebble_80x80_Blackberry_messenger.svg)  |    PebbleOS
 | Content Cell  | Content Cell  |
