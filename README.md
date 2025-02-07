@@ -3,8 +3,8 @@ Pebble-Style icons from the Rebble community
 
 # Service Icons
 
-| App / Service  | Icon | Source |
-| ------------- | ------------- | ------------- |
+| App / Service  | Large Icon | Medium Icon | Small Icon | Source |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Blackberry Messenger  | ![](./pebbleos/Pebble_80x80_Blackberry_messenger.svg)  | ![](./pebbleos/Pebble_50x50_Blackberry_messenger.svg)| ![](./pebbleos/Pebble_25x25_Blackberry_messenger.svg) | PebbleOS
 | Facebook Messenger  | ![](./pebbleos/Pebble_80x80_Facebook_messenger_notification.svg) | ![](./pebbleos/Pebble_50x50_Facebook_messenger_notification.svg) | ![](./pebbleos/Pebble_25x25_Facebook_messenger_notification.svg)  | PebbleOS
 | Facebook | ![](./pebbleos/Pebble_80x80_Facebook_notification.svg)| ![](./pebbleos/Pebble_50x50_Facebook_notification.svg)| ![](./pebbleos/Pebble_25x25_Facebook_notification.svg) | PebbleOS
