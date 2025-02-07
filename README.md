@@ -3,7 +3,7 @@ Pebble-Style icons from the Pebble Firmware and the Rebble community
 
 # App Icons
 
-These icons are for specific third party apps or services
+These icons are for specific third party apps or services.
 
 | App / Service  | Large Icon | Medium Icon | Small Icon | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -33,6 +33,12 @@ These icons are for specific third party apps or services
 | WeChat | ![](./pebbleos/Pebble_80x80_WeChat.svg)| ![](./pebbleos/Pebble_50x50_WeChat.svg)| ![](./pebbleos/Pebble_25x25_WeChat.svg) | PebbleOS
 | WhatsApp | ![](./pebbleos/Pebble_80x80_WhatsApp_notification.svg)| ![](./pebbleos/Pebble_50x50_WhatsApp_notification.svg)| ![](./pebbleos/Pebble_25x25_WhatsApp_notification.svg) | PebbleOS
 | Yahoo Mail | ![](./pebbleos/Pebble_80x80_Yahoo_mail.svg)| ![](./pebbleos/Pebble_50x50_Yahoo_mail.svg)| ![](./pebbleos/Pebble_25x25_Yahoo_mail.svg) | PebbleOS
+
+# Other Rebble Icons
+See [./rebble]
+
+# Other Firmware Icons
+see [./pebbleos] or, for the source, [the firmware repo](https://github.com/pebble-dev/pebble-firmware/tree/main/resources/normal/base/images).
 
 # Issue viewing icons?
 If you're using Firefox you might find you can't see some icons.
