@@ -38,7 +38,7 @@ These icons are for specific third party apps or services.
 See [here](./rebble)
 
 # Other Firmware Icons
-see [here](./pebbleos) or, for the source, [the firmware repo](https://github.com/pebble-dev/pebble-firmware/tree/main/resources/normal/base/images).
+See [here](./pebbleos) or for the source [check out the firmware repo](https://github.com/pebble-dev/pebble-firmware/tree/main/resources/normal/base/images).
 
 # Issue viewing icons?
 If you're using Firefox you might find you can't see some icons.
