@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="Comments"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 50 50"
+	 xml:space="preserve">
+<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="48.5,40.5 40.5,48.5 10.5,48.5 2.5,40.5 
+	"/>
+<polygon fill="#FFFFFF" points="36.5,30.5 36.5,8.5 30.5,2.5 18.5,2.5 12.5,8.5 12.5,10.5 25.5,10.5 28.5,13.5 28.5,32.5 26.5,34.5 
+	20.5,34.5 18.5,32.5 18.5,28.5 20.5,26.5 30.5,26.5 30.5,18.5 16.5,18.5 10.5,24.5 10.5,36.5 16.5,42.5 28.5,42.5 32.5,38.5 
+	36.5,42.5 42.5,36.5 "/>
+<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M36.5,30.5v-22l-6-6h-12l-6,6v2h13l3,3v5h-12l-6,6
+	v12l6,6h12l4-4l4,4l6-6L36.5,30.5z"/>
+<polygon fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="28.5,32.5 26.5,34.5 20.5,34.5 18.5,32.5 
+	18.5,28.5 20.5,26.5 28.5,26.5 "/>
+</svg>

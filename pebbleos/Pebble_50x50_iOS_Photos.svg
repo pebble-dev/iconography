@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="Comments"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 50 50"
+	 xml:space="preserve">
+<g>
+	<polyline fill="none" points="26.5,20.5 22.5,20.5 20.5,22.5 20.5,26.5 22.5,28.5 26.5,28.5 28.5,26.5 28.5,22.5 26.5,20.5 	"/>
+	<polygon fill="#FFFFFF" points="40.5,17.5 40.5,12.5 36.5,8.5 30.8,8.5 25.7,20.5 26.5,20.5 28.5,22.5 28.5,26.5 26.5,28.5 
+		22.5,28.5 20.5,26.5 20.5,22.5 22.5,20.5 26.5,20.5 31.5,8.5 31.5,8.5 27.5,4.5 21.5,4.5 17.5,8.5 12.5,8.5 8.5,12.5 8.5,17.5 
+		4.5,21.5 4.5,27.5 8.5,31.5 8.5,36.5 12.5,40.5 17.5,40.5 21.5,44.5 27.5,44.5 31.5,40.5 36.5,40.5 40.5,36.5 40.5,31.5 44.5,27.5 
+		44.5,21.5 	"/>
+</g>
+<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M40.5,17.5v-5l-4-4h-5l-4-4h-6l-4,4h-5l-4,4v5l-4,4
+	v6l4,4v5l4,4h5l4,4h6l4-4h5l4-4v-5l4-4v-6L40.5,17.5z"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="18" y1="9" x2="22" y2="20"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="27" y1="20" x2="31" y2="9"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="29" y1="22" x2="40" y2="18"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="29" y1="27" x2="40" y2="31"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="27" y1="29" x2="31" y2="40"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="22" y1="29" x2="18" y2="40"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="20" y1="27" x2="9" y2="31"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="20" y1="22" x2="9" y2="18"/>
+<polygon fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="28.5,26.5 26.5,28.5 22.5,28.5 20.5,26.5 
+	20.5,22.5 22.5,20.5 26.5,20.5 28.5,22.5 "/>
+</svg>

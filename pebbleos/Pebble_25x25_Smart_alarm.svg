@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 25 25" xml:space="preserve">
+<g>
+	
+		<polygon fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		2,15 2,9 8,3 14,3 20,9 20,15 14,21 8,21 	"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1" y1="5" x2="4" y2="2"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="18" y1="2" x2="21" y2="5"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="4" y1="18" x2="3" y2="22"/>
+	
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		11,7 11,11 8,15 	"/>
+	<g>
+		<rect x="13" y="13" fill="#242424" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="11" height="11"/>
+	</g>
+</g>
+<polyline fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="22,21 16,21 
+	21,16 15,16 "/>
+</svg>
