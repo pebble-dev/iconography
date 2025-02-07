@@ -6,7 +6,7 @@ Pebble-Style icons from the Pebble Firmware and the Rebble community
 | App / Service  | Large Icon | Medium Icon | Small Icon | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Blackberry Messenger  | ![](./pebbleos/Pebble_80x80_Blackberry_messenger.svg)  | ![](./pebbleos/Pebble_50x50_Blackberry_messenger.svg)| ![](./pebbleos/Pebble_25x25_Blackberry_messenger.svg) | PebbleOS
-| Discord | | | ![](./rebble/rebble_25x25_discord.svg) | Rebble
+| Discord | ![](./rebble/rebble_80x80_discord.svg) | ![](./rebble/rebble_50x50_discord.svg) | ![](./rebble/rebble_25x25_discord.svg) | Rebble
 | Facebook Messenger  | ![](./pebbleos/Pebble_80x80_Facebook_messenger_notification.svg) | ![](./pebbleos/Pebble_50x50_Facebook_messenger_notification.svg) | ![](./pebbleos/Pebble_25x25_Facebook_messenger_notification.svg)  | PebbleOS
 | Facebook | ![](./pebbleos/Pebble_80x80_Facebook_notification.svg)| ![](./pebbleos/Pebble_50x50_Facebook_notification.svg)| ![](./pebbleos/Pebble_25x25_Facebook_notification.svg) | PebbleOS
 | Gmail |   ![](./pebbleos/Pebble_80x80_Gmail_notification.svg)| ![](./pebbleos/Pebble_50x50_Gmail_notification.svg)| ![](./pebbleos/Pebble_25x25_Gmail_notification.svg) | PebbleOS
