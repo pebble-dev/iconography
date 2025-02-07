@@ -3,6 +3,8 @@ Pebble-Style icons from the Pebble Firmware and the Rebble community
 
 # App Icons
 
+These icons are for specific third party apps or services
+
 | App / Service  | Large Icon | Medium Icon | Small Icon | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Blackberry Messenger  | ![](./pebbleos/Pebble_80x80_Blackberry_messenger.svg)  | ![](./pebbleos/Pebble_50x50_Blackberry_messenger.svg)| ![](./pebbleos/Pebble_25x25_Blackberry_messenger.svg) | PebbleOS
@@ -31,3 +33,12 @@ Pebble-Style icons from the Pebble Firmware and the Rebble community
 | WeChat | ![](./pebbleos/Pebble_80x80_WeChat.svg)| ![](./pebbleos/Pebble_50x50_WeChat.svg)| ![](./pebbleos/Pebble_25x25_WeChat.svg) | PebbleOS
 | WhatsApp | ![](./pebbleos/Pebble_80x80_WhatsApp_notification.svg)| ![](./pebbleos/Pebble_50x50_WhatsApp_notification.svg)| ![](./pebbleos/Pebble_25x25_WhatsApp_notification.svg) | PebbleOS
 | Yahoo Mail | ![](./pebbleos/Pebble_80x80_Yahoo_mail.svg)| ![](./pebbleos/Pebble_50x50_Yahoo_mail.svg)| ![](./pebbleos/Pebble_25x25_Yahoo_mail.svg) | PebbleOS
+
+# Issue viewing icons?
+If you're using Firefox you might find you can't see some icons.
+
+# Have a request?
+Open an issue here or join #art-design on [the Discord server.](https://rebble.io/discord)
+
+# Have a design?
+Open a PR! Or drop by [the Discord server.](https://rebble.io/discord)
