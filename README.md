@@ -21,7 +21,7 @@ Pebble-Style icons from the Pebble Firmware and the Rebble community
 | Kik | ![](./pebbleos/Pebble_80x80_Kik.svg)| ![](./pebbleos/Pebble_50x50_Kik.svg)| ![](./pebbleos/Pebble_25x25_Kik.svg) | PebbleOS
 | Line | ![](./pebbleos/Pebble_80x80_Line.svg)| ![](./pebbleos/Pebble_50x50_Line.svg)| ![](./pebbleos/Pebble_25x25_Line.svg) | PebbleOS
 | LinkedIn | ![](./pebbleos/Pebble_80x80_LinkedIn.svg)| ![](./pebbleos/Pebble_50x50_LinkedIn.svg)| ![](./pebbleos/Pebble_25x25_LinkedIn.svg) | PebbleOS
-| Reddit | | | ![](./rebble/rebble_25x25_reddit.svg) | Rebble
+| Reddit | ![](./rebble/rebble_80x80_reddit.svg) | ![](./rebble/rebble_50x50_reddit.svg) | ![](./rebble/rebble_25x25_reddit.svg) | Rebble
 | Skype | ![](./pebbleos/Pebble_80x80_Skype.svg)| ![](./pebbleos/Pebble_50x50_Skype.svg)| ![](./pebbleos/Pebble_25x25_Skype.svg) | PebbleOS
 | Slack | ![](./pebbleos/Pebble_80x80_Slack.svg)| ![](./pebbleos/Pebble_50x50_Slack.svg)| ![](./pebbleos/Pebble_25x25_Slack.svg) | PebbleOS
 | Snapchat | ![](./pebbleos/Pebble_80x80_Snapchat.svg)| ![](./pebbleos/Pebble_50x50_Snapchat.svg)| ![](./pebbleos/Pebble_25x25_Snapchat.svg) | PebbleOS
