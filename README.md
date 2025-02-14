@@ -35,7 +35,7 @@ These icons are for specific third party apps or services.
 | Zoom | ![](./Third%20party%20apps/80px/Zoom%2080px.svg) | ![](./Third%20party%20apps/50px/Zoom%2050px.svg) | ![](./Third%20party%20apps/25px/Zoom%2025px.svg) | SurpriseBadger
 
 # Other Rebble Icons
-See subfolders
+Weather icons in [Pebble Draw Commands](https://developer.rebble.io/developer.pebble.com/guides/graphics-and-animations/vector-graphics/index.html) can be found at https://github.com/pebble-dev/resources
 
 # Other Pebble Technology Corp Icons
 See [here](./pebbleos) or for the source [check out the firmware repo](https://github.com/pebble-dev/pebble-firmware/tree/main/resources/normal/base/images).
