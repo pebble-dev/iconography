@@ -1,14 +1,17 @@
 # Style Guide
 
-Pebble icons use a **limited set of angles**, around 1:1, 2:1, and 3:1 rise over run, to ensure they render well at very low resolution without anti-aliasing.  Check how your icon rasterizes, on a real watch if you can.
+### Pebble icons use a **limited set of angles**
+Try to stick around 1:1, 2:1, and 3:1 rise over run, to ensure they render well at very low resolution without anti-aliasing.  Check how your icon rasterizes, on a real watch if you can.
 
 ![](./github-images/anti-aliasing.jpg)
 Image from Designing Apps For Pebble | Pebble Developer Retreat 2015
 
 
-Pebble icons usually use **closed shapes** with **filled backgrounds**.
+### Pebble icons usually use **closed shapes** with **filled backgrounds**.
+![](./github-images/small%20icons%20preview.png)
 
-Notification and Timeline icons come in three sizes: **25x25, 50x50,** and **80x80**.
+### Notification and Timeline icons come in three sizes: **25x25, 50x50,** and **80x80**.
+![](./github-images/Three%20sizes.png)
  
 - At 25px, solid lines are **2px thick**.
 - At 50px, solid outlines are **3px thick**, but you can use thinner lines for detail.
