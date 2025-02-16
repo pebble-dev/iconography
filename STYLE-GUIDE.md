@@ -1,7 +1,7 @@
 # Style Guide
 
 ### Pebble icons use a **limited set of angles**
-Try to stick around 1:1, 2:1, and 3:1 rise over run, to ensure they render well at very low resolution without anti-aliasing.  Check how your icon rasterizes, on a real watch if you can.
+Try to stick around 1:1 (45°), 2:1 (26.57°), and 3:1 (18.43°) rise over run, to ensure they render well at very low resolution without anti-aliasing.  Check how your icon rasterizes, on a real watch if you can.
 
 ![](./github-images/anti-aliasing.jpg)
 Image from Designing Apps For Pebble | Pebble Developer Retreat 2015
