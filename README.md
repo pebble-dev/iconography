@@ -40,9 +40,6 @@ Weather icons in [Pebble Draw Commands](https://developer.rebble.io/developer.pe
 # Other Pebble Technology Corp Icons
 See [here](./pebbleos) or for the source [check out the firmware repo](https://github.com/pebble-dev/pebble-firmware/tree/main/resources/normal/base/images).
 
-# Issue viewing icons?
-If you're using Firefox you might find you can't see some icons.
-
 # Have a request?
 Open an issue here or join #art-design on [the Discord server.](https://rebble.io/discord)
 
