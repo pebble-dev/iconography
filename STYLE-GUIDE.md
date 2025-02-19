@@ -1,9 +1,9 @@
 # Style Guide
 
-### Pebble icons use a **limited set of angles**
+### Pebble icons use a **limited set of angles.**
 ![](./github-images/angle%20limits.png)
 
-Try to stick around 1:1 (45°), 2:1 (26.57°), and 3:1 (18.43°) rise over run, to ensure they render well at very low resolution without anti-aliasing.  Check how your icon rasterizes, on a real watch if you can.
+Try to stick around 1:1 (45°), 2:1 (26.57°), and 3:1 (18.43°), to ensure your lines render well at very low resolution without anti-aliasing.  Check how your icon rasterizes, in https://github.com/HBehrens/pdc_tool or on a real watch.
 
 ### Pebble icons usually use **closed shapes** with **filled backgrounds**.
 ![](./github-images/small%20icons%20preview.png)
