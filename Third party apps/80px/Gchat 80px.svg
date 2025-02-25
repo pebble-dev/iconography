@@ -4,8 +4,8 @@
 <path d="M80 0H0V80H80V0Z" fill="white"/>
 </mask>
 <g mask="url(#mask0_1_13)">
-<path d="M14 9H56L71 24V56L67 60H38L26 72H24V52L31 45H56V25H24V60H14L9 56V14L14 9Z" fill="white"/>
-<path d="M14 9H56L71 24V56L67 60H38L26 72H24V52L31 45H56V25H24V60H14L9 56V14L14 9Z" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M9 9H56L71 24V60H38L26 72H24V52L31 45H56V25H24V60H9V9Z" fill="white"/>
+<path d="M9 9H56L71 24V60H38L26 72H24V52L31 45H56V25H24V60H9V9Z" stroke="black" stroke-width="4" stroke-linejoin="round"/>
 <path d="M22.5 24.5H10.5" stroke="black" stroke-width="3" stroke-linejoin="round"/>
 <path d="M22.5 45.5H10.5" stroke="black" stroke-width="3" stroke-linejoin="round"/>
 <path d="M69 24.5H56.5" stroke="black" stroke-width="3" stroke-linejoin="round"/>
