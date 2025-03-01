@@ -7,6 +7,11 @@ Shallow angles and misaligned pixels lead to a fuzzy, uneven look when drawn on 
 
 Rebble designers have hand-picked the angles 1:1 (45°), 2:1 (26.57°), and 3:1 (18.43°) for their even, consistent stair-stepping on every watch. Check how your icon rasterizes, in [pdc_tool](https://github.com/HBehrens/pdc_tool) or on a real watch.
 
+### Ensure strokes are aligned with the pixel grid
+![](./github-images/pixel%20alignment.png)
+
+Ensure that your points snap to pixels and half-pixels for PDC compatibility. Strokes of even width should fall on a grid line, and strokes of odd width should start in the center of a pixel, in order for the edge of a stroke to fill an entire pixel.
+
 ### Notification and Timeline icons come in three sizes: **25x25, 50x50,** and **80x80**.
 ![](./github-images/Three%20sizes.png)
  
