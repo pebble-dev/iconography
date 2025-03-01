@@ -1,1 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25"><polygon points="1.38 4.72 1.38 15.64 5.47 19.73 19.86 19.73 19.86 15.98 23.61 19.73 23.62 15.98 23.62 8.47 23.62 4.72 19.86 8.47 16.11 4.72 1.38 4.72" style="fill:#fff; stroke:#000; stroke-linecap:round; stroke-linejoin:round; stroke-width:2px;"/></svg>
+<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 5V16L5 20H18V17L24 20V5L18 8L15 5H1Z" fill="white" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
