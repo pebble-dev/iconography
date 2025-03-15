@@ -19,8 +19,10 @@ Ensure that your points snap to pixels and half-pixels for PDC compatibility. St
 - At 50px, solid outlines are **3px thick**, but you can use thinner lines for detail.
 - At 80px, solid outlines are **4px thick**, but you can use thinner lines for detail.
 
-### Pebble icons usually use **closed shapes** with **filled backgrounds**.
-![](./github-images/small%20icons%20preview.png)
+### Pebble icons use **closed shapes** with **filled backgrounds**.
+![](./github-images/closed%20shapes%20solid%20fill.png)
+
+Pebble illustrations do use open lines, for motion or for secondary elements, but an icon always contains a focal area with a solid white fill.
 
 ## Tools
 - @HBehrens has made a wonderful command-line tool for working with Pebble graphics, capable of converting between SVG and PDC formats and producing pixel-perfect renders: https://github.com/HBehrens/pdc_tool
