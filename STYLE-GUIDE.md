@@ -35,7 +35,7 @@ Pebble illustrations do use open lines, for motion or for secondary elements, bu
 Read more about the subset of compatible SVG elements at https://developer.rebble.io/developer.pebble.com/guides/app-resources/converting-svg-to-pdc/index.html
 
 ## Submission guidelines
-Create a PR to this repo with your SVGs in the appropriate folders, following the naming structure `[Name] [size]px.svg`
+Create a PR to this repo with your SVGs in the appropriate folders, following the naming structure `<size>px_Name_of_icon.svg`
 
 ## Recommended Reading
 A holistic understanding of designing for Pebble's limitations is great to have.
