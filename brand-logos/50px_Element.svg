@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50" height="50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path id="path1" d="m7.5 30.5h-6v-13l6-6h13v6h-10l-3 3z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+ <g fill="#ffffff" stroke-width="3">
+  <use transform="rotate(90,25,25)" xlink:href="#path1"/>
+  <use transform="rotate(180,25,25)" xlink:href="#path1"/>
+  <use transform="rotate(-90,25,25)" xlink:href="#path1"/>
+ </g>
+</svg>
