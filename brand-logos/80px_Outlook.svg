@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80" height="80" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0,5)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+  <path d="m78 40v32h-58v-32l29-23z" fill="#fff"/>
+  <path d="m26 44v-36h46v35l-24 12z" fill="#fff"/>
+  <path d="m78 70-30-15" fill="none"/>
+  <path d="m2 24h32v32h-32z" fill="#fff"/>
+  <path d="m11 33v14h14v-14z" fill="none"/>
+  <path d="m78 40-6 3" fill="none"/>
+ </g>
+</svg>
