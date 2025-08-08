@@ -58,7 +58,7 @@ See [here](./pebbleos) or for the source [check out the firmware repo](https://g
 Open an issue here or join #art-design on [the Discord server.](https://rebble.io/discord)
 
 # Have a design?
-Open a PR! Or drop by [the Discord server.](https://rebble.io/discord)
+Open a PR! Or drop by [the Discord server.](https://rebble.io/discord) (Make sure you have read the [Style Guide](STYLE-'GUIDE.md).)
 
 # Looking for Emojis?
 We also have an emoji replacement project! [Check that out here](https://github.com/pebble-dev/rebble-emojis/)
