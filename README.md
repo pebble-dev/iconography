@@ -10,9 +10,9 @@
 
 Icon contributions from the community are encouraged.
 
-Before you begin, read the [Style Guide](STYLE-'GUIDE.md) and review the gallery below, for examples. Discuss your designs in the [#pebble-icons](https://discord.com/channels/221364737269694464/1337484311930343434) channel on the [Rebble Alliance Discord Server](https://rebble.io/discord).
+Before you begin, please read the [Style Guide](STYLE-GUIDE.md) and explore the icon gallery below. It can be helpful to discuss your designs in the [#pebble-icons](https://discord.com/channels/221364737269694464/1337484311930343434) channel on the [Rebble Alliance Discord Server](https://rebble.io/discord).
 
-Please add your icons to the gallery below, when making a PR.
+Before making a PR, make sure you have also added your icons to the icon gallery below.
 
 ## Icon Requests
 
