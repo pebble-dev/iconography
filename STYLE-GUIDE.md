@@ -1,4 +1,4 @@
-# Style Guide
+# Pebble Iconography Style Guide
 
 ### Pebble icons use a **limited set of angles.**
 ![](./github-images/angle%20limits.png)
