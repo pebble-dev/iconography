@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="80" height="80" viewBox="0 0 80 80" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><g fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"><path d="m75 11h-13v13h13z"/><path d="m52 8h-16v16h16z"/><path d="m78 34h-19v24l6 6h7l6-6z"/><path d="m62 34h-36v30l10 10h16l10-10z"/><path d="m2 29h32v32h-32z"/></g><path d="m18 53v-15" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/><path d="m12 38h13" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/></svg>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="80" height="80" version="1.1" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+ <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m10 30h30l4 4v2h24l4 4v32l-6 6h-54l-6-6v-38z" fill="#fff" stroke-dashoffset=".2" stroke-miterlimit="3.2" stroke-width="4"/>
+  <path d="m2 40v31h31v-31z" fill="#fff" stroke-width="4"/>
+  <path d="m17.5 64.5v-18" fill="none" stroke-width="3"/>
+  <path d="m8.5 46.5h18" fill="none" stroke-width="3"/>
+  <path d="m22 2h10l6 6v10l-6 6h-10l-6-6v-10z" fill="#fff" stroke-dashoffset=".2" stroke-miterlimit="3.2" stroke-width="4"/>
+  <path d="m54 13h9l4 4v9l-4 4h-9l-4-4v-9z" fill="#fff" stroke-dashoffset=".2" stroke-miterlimit="3.2" stroke-width="4"/>
+  <path d="m44 36v35l7 7" fill="none" stroke-width="4"/>
+ </g>
+</svg>
