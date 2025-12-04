@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="25" height="25" version="1.1" viewBox="0 0 25 25" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><g stroke="#000" stroke-linecap="round" stroke-width="2"><g fill="#fff" stroke-linejoin="round"><path d="m23 3h-4v4h4z"/><path d="m16 2h-5v5h5z"/><path d="m24 10h-6v7l2 2h2l2-2z"/><path d="m19 10h-11v9l3 3h5l3-3z"/><path d="m1 8h10v10h-10z"/></g><path d="m6 15v-3" fill="none"/><path d="m4 11h4" fill="none"/></g></svg>
+<svg width="25" height="25" version="1.1" viewBox="0 0 25 25" xmlns="http://www.w3.org/2000/svg">
+ <g stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+  <path d="m4 9-2 2v10l3 3h16l2-2v-9l-2-2h-6l-2-2z" fill="#fff"/>
+  <path d="m1 22v-10h10v10z" fill="#fff"/>
+  <path d="m4 15h4" fill="none"/>
+  <path d="m6 15v4" fill="none"/>
+  <path d="m6 5v-2l2-2h2l2 2v2l-2 2h-2z" fill="#fff"/>
+  <path d="m17 8v-2l1-1h2l1 1v2l-1 1h-2z" fill="#fff"/>
+  <path d="m15 11v10l3 3" fill="none"/>
+ </g>
+</svg>

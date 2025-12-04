@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="50" height="50" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
-  <path d="m48.5 28.5.0 20h-37v-20l19-14z" fill="#fff"/>
-  <path d="m15.5 30.5v-22h29v22l-14 7.5z" fill="#fff"/>
-  <path d="m48.5 47-18-9" fill="none"/>
-  <path d="m1.5 18.5h20v20h-20z" fill="#fff"/>
-  <path d="m7.5 24.5v8h8v-8z" fill="none"/>
-  <path d="m48.5 28.5-4 2" fill="none"/>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="50" height="50" version="1.1" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+ <g stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m47.5 15.5v28l-5 5h-35l-5-5v-28l20-10h5z" fill="#fff" stroke-width="3"/>
+  <path d="m2.5 20.5 32 16v6l-6 6" fill="none" stroke-width="3"/>
+  <path d="m1.5 24.5v19h19v-19z" fill="#fff" stroke-width="3"/>
+  <path d="m6 37 2 2h6l2-2v-6l-2-2h-6l-2 2z" fill="none" stroke-width="2"/>
+  <path d="m25.5 31.5 22-11" fill="none" stroke-width="3"/>
  </g>
 </svg>
