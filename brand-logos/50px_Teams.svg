@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="50" height="50" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
-  <path d="m46.5 7.5h-8v8h8z"/>
-  <path d="m32.5 5.5h-10v10h10z"/>
-  <path d="m48.5 21.5h-12v15l4 4h4l4-4z"/>
-  <path d="m38.5 21.5h-22v19l6 6h10l6-6z"/>
-  <path d="m1.5 18.5h20v20h-20z"/>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="50" height="50" version="1.1" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+ <g stroke="#000">
+  <path d="m4.5 21.5v22l5 5h32l5-5v-17l-3-3h-15v-2l-3-3h-18z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path d="m14.5 1.5h7l3 3v7l-3 3h-7l-3-3v-7z" fill="#fff" stroke-width="3"/>
+  <path d="m34.5 9.5h6l2 2v6l-2 2h-6l-2-2v-6z" fill="#fff" stroke-width="3"/>
+  <path d="m28.5 23.5v19l6 6" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path d="m1.5 24.5v19h19v-19z" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path d="m6 29h10" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="m11 29v10" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
  </g>
- <path d="m11.5 32.5v-9" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
- <path d="m7.5 23.5h8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
 </svg>

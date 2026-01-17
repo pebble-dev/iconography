@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="80" height="80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <path id="path1" d="m11 48h-9v-21l10-10h21v9h-17l-5 5z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
- <g fill="#ffffff" stroke-width="4">
-  <use transform="rotate(90,40,40)" xlink:href="#path1"/>
-  <use transform="rotate(180,40,40)" xlink:href="#path1"/>
-  <use transform="rotate(-90,40,40)" xlink:href="#path1"/>
- </g>
+<svg width="80" height="80" version="1.1" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+ <path d="m17 47v21l10 10h21v-9h-17l-5-5v-17z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+ <path d="m69 32v17l-5 5h-17v9h21l10-10v-21z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+ <path d="m12 17-10 10v21h9v-17l5-5h17v-9z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+ <path d="m32 2v9h17l5 5v17h9v-21l-10-10z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
 </svg>
