@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="4.3452651"
-     inkscape:cx="77.440615"
-     inkscape:cy="-17.720438"
+     inkscape:zoom="11.185817"
+     inkscape:cx="8.984592"
+     inkscape:cy="56.58952"
      inkscape:window-width="2966"
      inkscape:window-height="2007"
      inkscape:window-x="2482"
      inkscape:window-y="1414"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg1"
+     inkscape:current-layer="layer1"
      showguides="true"><inkscape:grid
        id="grid1"
        units="px"
@@ -63,7 +63,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"><path
-       d="M 54.5,6 H 26 L 6,26 V 54 L 26,74 H 54 L 74,54 V 26 Z"
+       d="M 52,14 H 28 L 14,29 V 51 L 28,66 H 52 L 66,51 V 29 Z"
        fill="#ffffff"
        stroke="#000000"
        stroke-width="2.94118"
@@ -73,6 +73,6 @@
        style="fill:#ffffff;fill-opacity:1;stroke-width:4;stroke-dasharray:none"
        sodipodi:nodetypes="ccccccccc" /><path
        style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none"
-       d="M 8,26 40,42 72,26"
+       d="M 16,30 40,42 64,30"
        id="path2"
        sodipodi:nodetypes="ccc" /></g></svg>

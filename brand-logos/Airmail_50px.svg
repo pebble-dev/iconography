@@ -25,15 +25,15 @@
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="px"
    showgrid="true"
-   inkscape:zoom="11.377619"
-   inkscape:cx="-0.87891852"
-   inkscape:cy="17.270749"
+   inkscape:zoom="3.990285"
+   inkscape:cx="-49.871125"
+   inkscape:cy="77.312774"
    inkscape:window-width="2961"
    inkscape:window-height="1968"
-   inkscape:window-x="2267"
-   inkscape:window-y="1414"
+   inkscape:window-x="2294"
+   inkscape:window-y="1436"
    inkscape:window-maximized="0"
-   inkscape:current-layer="svg1"
+   inkscape:current-layer="layer4"
    showguides="true"
    inkscape:antialias-rendering="true">
     <inkscape:grid
@@ -90,7 +90,7 @@
       
       
     <path
-   d="m 34.5,4.5 h -19 l -11,11 v 19 l 11,11 h 19 l 11,-11 v -19 z"
+   d="m 32.5,7.5 h -15 l -10,10 v 15 l 10,10 h 15 l 10,-10 v -15 z"
    fill="#ffffff"
    stroke="#000000"
    stroke-width="2.94118"
@@ -100,7 +100,7 @@
    style="fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-dasharray:none"
    sodipodi:nodetypes="ccccccccc" /><path
    style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none"
-   d="m 5,15.5 20,10 20,-10"
+   d="m 9,17.5 16,8 16,-8"
    id="path2"
    sodipodi:nodetypes="ccc" /></g>
   </g>
