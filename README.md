@@ -27,6 +27,7 @@ Please share your icon requests in the [#pebble-icons](https://discord.com/chann
 
 | App / Service | Large Icon | Medium Icon | Small Icon | Source |
 |---------------|------------|-------------|------------|--------|
+| [Airmail](https://airmailapp.com/) | <img src="./brand-logos/Airmail_80px.svg" width="80" height="80"> | <div align="center"><img src="./brand-logos/Airmail_50px.svg" width="50" height="50"></div> | <div align="center"><img src="./brand-logos/Airmail_25px.svg" width="25" height="25"></div> | saltedlolly |
 | Amazon | <img src="./pebbleos/Pebble_80x80_Amazon.svg" width="80" height="80"> | <div align="center"><img src="./pebbleos/Pebble_50x50_Amazon.svg" width="50" height="50"></div> | <div align="center"><img src="./pebbleos/Pebble_25x25_Amazon.svg" width="25" height="25"></div> | PebbleOS |
 | Beeper | <img src="./brand-logos/80px_Beeper.svg" width="80" height="80"> | <div align="center"><img src="./brand-logos/50px_Beeper.svg" width="50" height="50"></div> | <div align="center"><img src="./brand-logos/25px_Beeper.svg" width="25" height="25"></div> | hellcp |
 | Blackberry Messenger | <img src="./pebbleos/Pebble_80x80_Blackberry_messenger.svg" width="80" height="80"> | <div align="center"><img src="./pebbleos/Pebble_50x50_Blackberry_messenger.svg" width="50" height="50"></div> | <div align="center"><img src="./pebbleos/Pebble_25x25_Blackberry_messenger.svg" width="25" height="25"></div> | PebbleOS |
