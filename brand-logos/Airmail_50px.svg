@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="50"
-   height="50"
-   viewBox="0 0 50 50"
-   version="1.1"
-   id="svg1"
-   xml:space="preserve"
-   sodipodi:docname="Airmail_50px.svg"
-   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
-   inkscape:export-filename="../../pebble-iconography/brand-logos/50px_Reddit v6.pdc"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-   id="namedview1"
-   pagecolor="#aeaeae"
-   bordercolor="#000000"
-   borderopacity="0.25"
-   inkscape:showpageshadow="2"
-   inkscape:pageopacity="0.0"
-   inkscape:pagecheckerboard="0"
-   inkscape:deskcolor="#d1d1d1"
-   inkscape:document-units="px"
-   showgrid="true"
-   inkscape:zoom="3.990285"
-   inkscape:cx="-49.871125"
-   inkscape:cy="77.312774"
-   inkscape:window-width="2961"
-   inkscape:window-height="1968"
-   inkscape:window-x="2294"
-   inkscape:window-y="1436"
-   inkscape:window-maximized="0"
-   inkscape:current-layer="layer4"
-   showguides="true"
-   inkscape:antialias-rendering="true">
-    <inkscape:grid
-   id="grid1"
-   units="px"
-   originx="25"
-   originy="25"
-   spacingx="0.5"
-   spacingy="0.5"
-   empcolor="#0099e5"
-   empopacity="0.30196078"
-   color="#86e500"
-   opacity="0.14901961"
-   empspacing="2"
-   enabled="true"
-   visible="true"
-   dotted="true" />
-    <sodipodi:guide
-   position="25,70.5"
-   orientation="1,0"
-   id="guide12"
-   inkscape:locked="false" />
-  <sodipodi:guide
-   position="-2,25"
-   orientation="0,-1"
-   id="guide1"
-   inkscape:locked="false" /></sodipodi:namedview>
+<svg width="50" height="50" version="1.1" viewBox="0 0 50 50" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
   
-  <defs
-   id="defs1">
-    <linearGradient
-   id="swatch1"
-   inkscape:swatch="solid">
-      <stop
-   style="stop-color:#ffffff;stop-opacity:1;"
-   offset="0"
-   id="stop1" />
-    </linearGradient>
-  </defs>
   
-  <g
-   id="g12">
-    <g
-   inkscape:groupmode="layer"
-   id="layer4"
-   inkscape:label="Layer 1"
-   style="stroke-width:1.47;stroke-dasharray:none">
+  
+  
+    <g stroke="#000" stroke-width="3">
       
       
       
@@ -89,20 +12,7 @@
       
       
       
-    <path
-   d="m 32.5,7.5 h -15 l -10,10 v 15 l 10,10 h 15 l 10,-10 v -15 z"
-   fill="#ffffff"
-   stroke="#000000"
-   stroke-width="2.94118"
-   stroke-linejoin="round"
-   id="path1-1"
-   inkscape:label="path1"
-   style="fill:#ffffff;fill-opacity:1;stroke-width:3;stroke-dasharray:none"
-   sodipodi:nodetypes="ccccccccc" /><path
-   style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none"
-   d="m 9,17.5 16,8 16,-8"
-   id="path2"
-   sodipodi:nodetypes="ccc" /></g>
-  </g>
+    <path d="m32.5 7.5h-15l-10 10v15l10 10h15l10-10v-15z" fill="#fff"/><path d="m9 17.5 16 8 16-8" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1"/></g>
+  
   
 </svg>
